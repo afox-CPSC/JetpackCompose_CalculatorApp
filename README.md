@@ -45,3 +45,14 @@ https://developer.android.com/develop/ui/compose/state
 https://github.com/philipplackner/CalculatorPrep
 https://www.youtube.com/watch?v=-aTcFJWxEQA
 https://developer.android.com/develop/ui/compose/architecture
+
+# Checklist
+☐ App compiles and runs without crashes
+
+☐ Baseline features match the video app
+
+☐ Two enhancements implemented and visible in the demo
+
+☐ Readme includes overview, features, setup, screenshots, and video link
+
+☐ APK uploaded; repo access granted
